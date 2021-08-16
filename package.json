@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-guide",
+  "version": "1.0.0",
+  "description": "Node.js Guide",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/black-code1/nodejs-guide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/black-code1/nodejs-guide/issues"
+  },
+  "homepage": "https://github.com/black-code1/nodejs-guide#readme"
+}
