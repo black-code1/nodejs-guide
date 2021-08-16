@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/black-code1/nodejs-guide/issues"
   },
-  "homepage": "https://github.com/black-code1/nodejs-guide#readme"
+  "homepage": "https://github.com/black-code1/nodejs-guide#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
 }
